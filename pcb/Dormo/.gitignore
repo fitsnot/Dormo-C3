@@ -1,0 +1,5 @@
+Dormo-backups/
+*.kicad_prl
+\#auto_saved_files#
+*.lck
+*.bak
