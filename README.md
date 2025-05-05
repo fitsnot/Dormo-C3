@@ -1,10 +1,20 @@
 # Dormo
 
-The Dormo is a tiny IoT device with extremely long battery life and snappy response time, making it ideal for a multi-button smart home remotes.
+The Dormo is a tiny IoT device with extremely long battery life and snappy response time, making it ideal for a multi-button smart home remote.
 This project started as a fork of [Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3) which focuses on overall size and offers limited expandability.
 
+## Current State
 
-### [Main documentation of the Picoclick-C3 can be found here!](https://makermoekoe.gitbook.io/picoclick-c3/)
+The short term goal is to have a ready-to order PCB at JLCPCB with the respective parts for assembly.
+After inital PCB design a housing for the remote will follow. If you have suggestions simply open a feature request issue.
+
+- [ ] Update schematic in KiCad
+- [ ] Draw PCB
+- [ ] Validate prototype PCB
+- [ ] Design 3D-printable housing
+  
+
+
 
 ## GPIOs
 
@@ -63,5 +73,6 @@ As the Picoclick C3 comes with an embedded battery protection, the protection of
 
 # FAQ
 
-## Media
+[Main documentation of the Picoclick-C3 can be found here!](https://makermoekoe.gitbook.io/picoclick-c3/)
+
 
