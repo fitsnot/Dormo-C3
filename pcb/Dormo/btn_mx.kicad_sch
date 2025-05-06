@@ -1,0 +1,3108 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "508e8651-5ddd-4ec8-aca2-53fbeddc9d97")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 140.97 135.89) (xy 140.97 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0391a6ba-33ba-459c-936d-cd938e3e4287")
+	)
+	(wire
+		(pts
+			(xy 100.33 137.16) (xy 101.6 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c6ab286-e112-4a80-af98-260743173afe")
+	)
+	(wire
+		(pts
+			(xy 158.75 46.99) (xy 160.02 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e24a1ed-5ea5-4e5d-b9f2-446ca6799bc2")
+	)
+	(wire
+		(pts
+			(xy 140.97 45.72) (xy 140.97 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eab6d30-2b60-4cdc-bffc-e024e856532a")
+	)
+	(wire
+		(pts
+			(xy 129.54 46.99) (xy 130.81 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14dd77fa-fd11-4c67-bb01-51cdd49d1438")
+	)
+	(wire
+		(pts
+			(xy 170.18 71.12) (xy 172.72 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ae8b88d-9e31-4d01-a6c9-691c201147ee")
+	)
+	(wire
+		(pts
+			(xy 100.33 111.76) (xy 104.14 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e27435a-910a-4f0b-8656-66ca29583b11")
+	)
+	(wire
+		(pts
+			(xy 129.54 68.58) (xy 133.35 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fe5e2bb-984f-4ed4-9d99-ecf5dd8142bc")
+	)
+	(wire
+		(pts
+			(xy 162.56 111.76) (xy 162.56 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21a49993-f9fc-4e17-b91e-d4496d17fb7a")
+	)
+	(wire
+		(pts
+			(xy 129.54 114.3) (xy 130.81 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25da5271-a520-45a6-be04-f40f77e34680")
+	)
+	(wire
+		(pts
+			(xy 82.55 45.72) (xy 82.55 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ce6f1b4-333d-4178-9833-bce6c3578834")
+	)
+	(wire
+		(pts
+			(xy 187.96 134.62) (xy 191.77 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d161526-4f96-4ec6-82dd-305ac3ce54ad")
+	)
+	(wire
+		(pts
+			(xy 170.18 91.44) (xy 170.18 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3205f070-76cd-4581-baff-cbcb2d598240")
+	)
+	(wire
+		(pts
+			(xy 187.96 90.17) (xy 191.77 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35355af0-bee2-4618-86aa-02c804e974c1")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.17) (xy 162.56 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "360f7cd8-e532-4070-861f-5f242537944c")
+	)
+	(wire
+		(pts
+			(xy 82.55 135.89) (xy 82.55 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39a3e8a3-d362-44af-8e3a-34812e1eef2e")
+	)
+	(wire
+		(pts
+			(xy 100.33 46.99) (xy 101.6 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e0661b1-41ef-45af-8c20-d53b358f3774")
+	)
+	(wire
+		(pts
+			(xy 187.96 46.99) (xy 189.23 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e5a9cbe-f8e0-4e4e-aa46-b64df544a79f")
+	)
+	(wire
+		(pts
+			(xy 129.54 90.17) (xy 133.35 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4052fd4c-c1ff-429e-aa11-da3b68d23787")
+	)
+	(wire
+		(pts
+			(xy 133.35 44.45) (xy 133.35 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "447f0ff8-2c77-4f83-bc3a-b73ece6f42ca")
+	)
+	(wire
+		(pts
+			(xy 111.76 91.44) (xy 111.76 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "449cc102-ead4-40fb-96f0-dc3f087bf616")
+	)
+	(wire
+		(pts
+			(xy 191.77 134.62) (xy 191.77 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4508c05c-de07-4aee-8c45-6e09d636e541")
+	)
+	(wire
+		(pts
+			(xy 111.76 137.16) (xy 114.3 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c0d71b8-3381-4259-b4aa-e27d8b3d8ddc")
+	)
+	(wire
+		(pts
+			(xy 82.55 114.3) (xy 85.09 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e169c1f-988e-4346-95fe-e1988ec6bbd3")
+	)
+	(wire
+		(pts
+			(xy 140.97 114.3) (xy 143.51 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fa1dfe6-a090-4bf2-b62f-bbe4f37ad6d9")
+	)
+	(wire
+		(pts
+			(xy 158.75 137.16) (xy 160.02 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50c33d59-b922-4813-b8f3-31df6dfa8e11")
+	)
+	(wire
+		(pts
+			(xy 100.33 44.45) (xy 104.14 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55fd5613-7a6e-47ca-a16f-99c8bc586947")
+	)
+	(wire
+		(pts
+			(xy 129.54 111.76) (xy 133.35 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57e2c9e0-7907-4d7f-9026-51441f100a40")
+	)
+	(wire
+		(pts
+			(xy 170.18 114.3) (xy 172.72 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "588f6575-37f2-480d-a18e-f961052d4770")
+	)
+	(wire
+		(pts
+			(xy 158.75 92.71) (xy 160.02 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bc02fa8-f0e8-48b3-a8be-c4f69831d783")
+	)
+	(wire
+		(pts
+			(xy 187.96 92.71) (xy 189.23 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e6ea047-4a51-4184-accb-3b192ad8a27c")
+	)
+	(wire
+		(pts
+			(xy 170.18 92.71) (xy 172.72 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fa20962-247b-49f9-9f00-7b7d12adfeac")
+	)
+	(wire
+		(pts
+			(xy 187.96 114.3) (xy 189.23 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "628800ae-be0b-4776-a76a-352af0020dbf")
+	)
+	(wire
+		(pts
+			(xy 158.75 111.76) (xy 162.56 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "628a4e13-ad41-43cb-9f32-38662c79ee1c")
+	)
+	(wire
+		(pts
+			(xy 100.33 71.12) (xy 101.6 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63e63b63-6b0d-48e3-a32a-90e4148a497e")
+	)
+	(wire
+		(pts
+			(xy 170.18 69.85) (xy 170.18 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6876f823-7bb5-496e-85a2-ec329e909955")
+	)
+	(wire
+		(pts
+			(xy 104.14 134.62) (xy 104.14 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "697a5d9f-4c8a-4943-a8ec-b6f2b72a3b02")
+	)
+	(wire
+		(pts
+			(xy 104.14 44.45) (xy 104.14 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b8e37f2-75ee-42cf-968c-4d23b626f124")
+	)
+	(wire
+		(pts
+			(xy 170.18 137.16) (xy 172.72 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70e5a4d3-4d06-42d8-b3d2-6e6fd60a327c")
+	)
+	(wire
+		(pts
+			(xy 140.97 69.85) (xy 140.97 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72ada3cc-0d16-4d5a-8ebc-681e7e796c4a")
+	)
+	(wire
+		(pts
+			(xy 187.96 44.45) (xy 191.77 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a15c4b3-1174-4d07-8f8b-55d2d5037674")
+	)
+	(wire
+		(pts
+			(xy 170.18 113.03) (xy 170.18 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b42248b-df2e-4f20-8ae3-0d83d63dc12a")
+	)
+	(wire
+		(pts
+			(xy 140.97 91.44) (xy 140.97 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80b4d6e2-fad3-4448-a257-3e5c36e605c2")
+	)
+	(wire
+		(pts
+			(xy 82.55 46.99) (xy 85.09 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "812b4e05-4905-41b1-9c1b-0ed4b10178b6")
+	)
+	(wire
+		(pts
+			(xy 140.97 137.16) (xy 143.51 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81f48a1a-baf9-4018-821a-a9fa81340a18")
+	)
+	(wire
+		(pts
+			(xy 104.14 90.17) (xy 104.14 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85332c73-2e40-4274-a2ee-07f42a8d7113")
+	)
+	(wire
+		(pts
+			(xy 158.75 44.45) (xy 162.56 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85dcca3c-2696-4341-8826-35baa0891399")
+	)
+	(wire
+		(pts
+			(xy 100.33 134.62) (xy 104.14 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a517385-7264-4493-99f8-687996daae36")
+	)
+	(wire
+		(pts
+			(xy 158.75 114.3) (xy 160.02 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cfd3e7f-897b-4c78-ad8a-e14f2c67a41c")
+	)
+	(wire
+		(pts
+			(xy 133.35 90.17) (xy 133.35 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f6d0acf-25d6-4153-b673-94336f998197")
+	)
+	(wire
+		(pts
+			(xy 111.76 92.71) (xy 114.3 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94953c2a-d400-4e00-8292-caf82459fa17")
+	)
+	(wire
+		(pts
+			(xy 111.76 71.12) (xy 114.3 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "960715f4-af08-484f-839b-d34922191428")
+	)
+	(wire
+		(pts
+			(xy 140.97 113.03) (xy 140.97 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a27635f-c8a9-4884-a443-e1484f5cc778")
+	)
+	(wire
+		(pts
+			(xy 162.56 68.58) (xy 162.56 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a8a78d8-dee5-4706-a4a6-55130155dace")
+	)
+	(wire
+		(pts
+			(xy 100.33 114.3) (xy 101.6 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c79b79e-8a9d-4bbe-9cb1-6269fd72ea45")
+	)
+	(wire
+		(pts
+			(xy 129.54 44.45) (xy 133.35 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c9c8c43-55c0-4582-963e-6ba754cbd1f2")
+	)
+	(wire
+		(pts
+			(xy 111.76 113.03) (xy 111.76 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dabc4a5-1a52-4325-ba2c-0e9f6b0097c9")
+	)
+	(wire
+		(pts
+			(xy 82.55 71.12) (xy 85.09 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e35d21b-2767-46c2-8be6-40068a53c443")
+	)
+	(wire
+		(pts
+			(xy 170.18 46.99) (xy 172.72 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a01369a7-f540-419f-adb6-5c6472a955bd")
+	)
+	(wire
+		(pts
+			(xy 129.54 137.16) (xy 130.81 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c5c005-c197-41eb-8166-6cac481872a2")
+	)
+	(wire
+		(pts
+			(xy 104.14 68.58) (xy 104.14 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5b0ab92-21e6-4e35-a33b-f0b50d1905d6")
+	)
+	(wire
+		(pts
+			(xy 158.75 90.17) (xy 162.56 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a62d76a8-f1ca-443f-bf26-5597be71500c")
+	)
+	(wire
+		(pts
+			(xy 82.55 113.03) (xy 82.55 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa11d3bd-6875-4d7d-961f-f6e32a0cb9ec")
+	)
+	(wire
+		(pts
+			(xy 191.77 111.76) (xy 191.77 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac265015-7f9d-4985-8234-8aefb45f0ab1")
+	)
+	(wire
+		(pts
+			(xy 111.76 114.3) (xy 114.3 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac98ff25-35b0-427a-942d-37bb33c9cfe2")
+	)
+	(wire
+		(pts
+			(xy 187.96 111.76) (xy 191.77 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ada424d8-be9e-4a53-bbe3-7018275180d1")
+	)
+	(wire
+		(pts
+			(xy 82.55 92.71) (xy 85.09 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b325d194-d64e-441e-ab5b-59763ee3f4c3")
+	)
+	(wire
+		(pts
+			(xy 129.54 71.12) (xy 130.81 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4a31f6e-737c-44ca-bbeb-a498ae079cdd")
+	)
+	(wire
+		(pts
+			(xy 187.96 137.16) (xy 189.23 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baa27192-0b0f-438c-86f0-e7ed53fb72a6")
+	)
+	(wire
+		(pts
+			(xy 158.75 68.58) (xy 162.56 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb6f493c-d94f-4b2c-b77f-18e628fd2cf6")
+	)
+	(wire
+		(pts
+			(xy 162.56 134.62) (xy 162.56 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcb7a54a-81e2-4631-b5ae-84ff3905aa4a")
+	)
+	(wire
+		(pts
+			(xy 111.76 45.72) (xy 111.76 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd69fa1c-4589-497a-ae13-921c6000101d")
+	)
+	(wire
+		(pts
+			(xy 187.96 68.58) (xy 191.77 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beb544d6-7a94-4fb8-8d52-2f33d1fa673f")
+	)
+	(wire
+		(pts
+			(xy 133.35 68.58) (xy 133.35 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0393a3a-667e-4dd1-9792-5241abce6628")
+	)
+	(wire
+		(pts
+			(xy 82.55 69.85) (xy 82.55 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c16ff7e4-b405-4eda-8db6-bbeba9d99619")
+	)
+	(wire
+		(pts
+			(xy 158.75 71.12) (xy 160.02 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c24d597b-b29c-438e-abfd-2b03b93bf058")
+	)
+	(wire
+		(pts
+			(xy 129.54 92.71) (xy 130.81 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c28df38a-cadb-4b39-a9ba-b01bd961c090")
+	)
+	(wire
+		(pts
+			(xy 162.56 44.45) (xy 162.56 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c57cac44-4709-4f8a-9e75-3cffade29cac")
+	)
+	(wire
+		(pts
+			(xy 100.33 90.17) (xy 104.14 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6345905-e81b-4c9e-9927-5359f6d5cfa3")
+	)
+	(wire
+		(pts
+			(xy 191.77 90.17) (xy 191.77 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca0164c1-f07a-44b7-95c9-5889c525adc2")
+	)
+	(wire
+		(pts
+			(xy 133.35 111.76) (xy 133.35 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cabd7f59-38a9-4d51-8912-9eaad91cb3b1")
+	)
+	(wire
+		(pts
+			(xy 111.76 46.99) (xy 114.3 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd3adfb6-1691-4f4c-b248-71f6a1d59979")
+	)
+	(wire
+		(pts
+			(xy 140.97 46.99) (xy 143.51 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d73f27f1-5a26-4560-a7de-f63696e59d79")
+	)
+	(wire
+		(pts
+			(xy 111.76 69.85) (xy 111.76 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda70bd8-eebc-4d0d-b8f2-393439c36028")
+	)
+	(wire
+		(pts
+			(xy 129.54 134.62) (xy 133.35 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0befc0f-d008-480a-b03e-916f02df639c")
+	)
+	(wire
+		(pts
+			(xy 82.55 91.44) (xy 82.55 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e25f5bcc-f75d-45bc-bb10-bbd49a8e7bdc")
+	)
+	(wire
+		(pts
+			(xy 191.77 44.45) (xy 191.77 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3ae0992-6a1c-43f4-a6a1-e18b2aeca378")
+	)
+	(wire
+		(pts
+			(xy 133.35 134.62) (xy 133.35 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3e0e0f9-2ec0-4064-98da-612ea2151bb1")
+	)
+	(wire
+		(pts
+			(xy 82.55 137.16) (xy 85.09 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7ed8ea2-9790-4e00-a0f5-47a47d517552")
+	)
+	(wire
+		(pts
+			(xy 191.77 68.58) (xy 191.77 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e878fa66-22ba-40dc-9408-89c1d67f367b")
+	)
+	(wire
+		(pts
+			(xy 158.75 134.62) (xy 162.56 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f9ccfc-8d91-46ef-b267-0a8d4bf3a65f")
+	)
+	(wire
+		(pts
+			(xy 140.97 71.12) (xy 143.51 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea8d6043-c06c-4dcc-bec0-d008729d346b")
+	)
+	(wire
+		(pts
+			(xy 100.33 92.71) (xy 101.6 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec952ebd-6bc6-4d2f-921f-e546fb02099b")
+	)
+	(wire
+		(pts
+			(xy 104.14 111.76) (xy 104.14 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeff8080-177d-4a59-9eea-b0af6cca687b")
+	)
+	(wire
+		(pts
+			(xy 111.76 135.89) (xy 111.76 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f335d895-8cc6-4766-abae-6c6603bd5a7f")
+	)
+	(wire
+		(pts
+			(xy 170.18 45.72) (xy 170.18 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f717c42b-3319-4f4e-bb5c-340edcd19644")
+	)
+	(wire
+		(pts
+			(xy 170.18 135.89) (xy 170.18 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7c41148-e912-4c5e-a4b6-7f2a88614ba4")
+	)
+	(wire
+		(pts
+			(xy 187.96 71.12) (xy 189.23 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8102a5c-17eb-4969-be33-5ca14a9ceb13")
+	)
+	(wire
+		(pts
+			(xy 140.97 92.71) (xy 143.51 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f816e738-327c-4605-b3db-01cece5fd067")
+	)
+	(wire
+		(pts
+			(xy 100.33 68.58) (xy 104.14 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f906da8c-d469-4daf-9c9d-a0bb5bb1f172")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 160.02 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0843f2e6-ba33-4c63-889b-071fcde60d3a")
+	)
+	(hierarchical_label "COL_4"
+		(shape input)
+		(at 191.77 43.18 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1b112d1f-d08f-4e80-b8b5-5ba72770f9bd")
+	)
+	(hierarchical_label "ROW_4"
+		(shape input)
+		(at 140.97 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1b93495c-35da-44e4-9a89-59ed64ea843e")
+	)
+	(hierarchical_label "COL_1"
+		(shape input)
+		(at 104.14 43.18 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d2ae543-b2e9-4ab3-83b3-c1d5791b6534")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 189.23 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e823adc-98ef-415d-8e45-1cbaf6398c11")
+	)
+	(hierarchical_label "COL_2"
+		(shape input)
+		(at 133.35 43.18 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1ef9e28d-9db7-4c07-ac59-afd2a41a3528")
+	)
+	(hierarchical_label "COL_1"
+		(shape input)
+		(at 104.14 88.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "24608d23-93f9-46fe-a3a3-1fb1bfea9d22")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 101.6 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "27b20620-ebb0-47a2-8a8f-434f64ec6626")
+	)
+	(hierarchical_label "ROW_5"
+		(shape input)
+		(at 170.18 135.89 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28005446-9248-47cd-8e87-09f0fb363673")
+	)
+	(hierarchical_label "COL_4"
+		(shape input)
+		(at 191.77 67.31 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2fa26961-6af5-4aeb-9b5c-87d7726de000")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 189.23 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "30087f86-6c47-4be4-8f80-196b3337545c")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 101.6 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "321cc810-904d-4035-b65a-5b1586b2399a")
+	)
+	(hierarchical_label "ROW_3"
+		(shape input)
+		(at 170.18 91.44 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32d08c5c-b14c-4051-bb1f-c733fee99b3b")
+	)
+	(hierarchical_label "ROW_5"
+		(shape input)
+		(at 82.55 135.89 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33fb3053-3085-44e6-ae84-5ac8c1527323")
+	)
+	(hierarchical_label "COL_2"
+		(shape input)
+		(at 133.35 133.35 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3dbe2025-9894-49d1-ad4f-3333281f6651")
+	)
+	(hierarchical_label "ROW_4"
+		(shape input)
+		(at 82.55 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3fd1c400-319d-4107-8465-20ffd4627ac6")
+	)
+	(hierarchical_label "ROW_1"
+		(shape input)
+		(at 170.18 45.72 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "40a8aeab-9b3e-40ac-a70a-890bc791e9f0")
+	)
+	(hierarchical_label "COL_3"
+		(shape input)
+		(at 162.56 67.31 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "417f9036-17f6-43f9-944d-d950ed825064")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 160.02 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4365a5e5-f994-44af-9682-7f339f826e8e")
+	)
+	(hierarchical_label "ROW_4"
+		(shape input)
+		(at 111.76 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "47f09723-e390-4d83-a8db-7dc5ef11d5a1")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 101.6 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49607448-09e0-45e5-9aae-10978152de6d")
+	)
+	(hierarchical_label "COL_3"
+		(shape input)
+		(at 162.56 110.49 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49d60cfd-c93e-4366-9f20-e1171adff61b")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 130.81 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4ced3df2-45d0-43bd-91bb-4dce60a8ef82")
+	)
+	(hierarchical_label "COL_3"
+		(shape input)
+		(at 162.56 133.35 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "531fcfca-e256-432a-b032-a7a1dc333a17")
+	)
+	(hierarchical_label "ROW_3"
+		(shape input)
+		(at 82.55 91.44 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58f4670a-ef04-4c06-8085-ff6fc3de8afe")
+	)
+	(hierarchical_label "ROW_4"
+		(shape input)
+		(at 170.18 113.03 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6112e380-4053-4a94-81ef-d23f3515412c")
+	)
+	(hierarchical_label "ROW_2"
+		(shape input)
+		(at 170.18 69.85 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "68d2865d-541d-4916-aa92-7e68a59d370c")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 189.23 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6901a41d-a74e-4753-a3ef-d6da4fc6963e")
+	)
+	(hierarchical_label "ROW_1"
+		(shape input)
+		(at 140.97 45.72 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e16d96a-9797-466a-a2b2-418d5a73f06c")
+	)
+	(hierarchical_label "ROW_1"
+		(shape input)
+		(at 111.76 45.72 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6f7cb5bd-de52-432e-a91d-8aeb29ea18ef")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 130.81 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "70ea47aa-4327-47b1-9d54-0c623ec14d8c")
+	)
+	(hierarchical_label "COL_4"
+		(shape input)
+		(at 191.77 88.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "72aab5f0-50fa-4ca3-a5e1-5fd2b95aac7b")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 130.81 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75b08af6-0419-4bec-af59-84a6712fea21")
+	)
+	(hierarchical_label "COL_3"
+		(shape input)
+		(at 162.56 88.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c6cb160-30b4-4b39-8f94-9612fdde6685")
+	)
+	(hierarchical_label "ROW_3"
+		(shape input)
+		(at 111.76 91.44 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8cbd2ce5-11d7-4a1d-aae4-5e290da676e7")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 189.23 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "94b55756-e00b-4c41-89a2-20d408aea26d")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 160.02 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c0dff07-bf09-4a90-bc48-749eb55aa02f")
+	)
+	(hierarchical_label "COL_4"
+		(shape input)
+		(at 191.77 110.49 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a736c9d3-41f4-42fb-9fba-dc49a61dbc57")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 130.81 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab13dbe9-08ee-4dea-a372-939c44628ecb")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 130.81 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aba1b20a-6fc4-4b21-a2cc-246c4ae18196")
+	)
+	(hierarchical_label "ROW_2"
+		(shape input)
+		(at 111.76 69.85 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b301a700-7935-4234-bbac-552ee2a4f693")
+	)
+	(hierarchical_label "COL_2"
+		(shape input)
+		(at 133.35 67.31 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4a04f13-cfff-4ded-8b7d-5f79a0d5eba6")
+	)
+	(hierarchical_label "COL_4"
+		(shape input)
+		(at 191.77 133.35 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bd3d3de6-e28e-4c18-886d-1aefb6964085")
+	)
+	(hierarchical_label "COL_1"
+		(shape input)
+		(at 104.14 67.31 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c8045cf8-d8d1-45ec-8309-8a21407cca7f")
+	)
+	(hierarchical_label "ROW_3"
+		(shape input)
+		(at 140.97 91.44 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c87e2e12-7c9c-446d-a5a8-84bb00729bce")
+	)
+	(hierarchical_label "ROW_2"
+		(shape input)
+		(at 82.55 69.85 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb8dfef3-9455-43aa-9dc1-36c59a16fca8")
+	)
+	(hierarchical_label "COL_1"
+		(shape input)
+		(at 104.14 110.49 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cca46d9e-165d-4f7d-a1a2-50c935eafaeb")
+	)
+	(hierarchical_label "COL_2"
+		(shape input)
+		(at 133.35 110.49 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd565d70-2769-45bb-9fd4-571fdb004112")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 160.02 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1c95343-f790-480d-9043-60a404901dbc")
+	)
+	(hierarchical_label "COL_3"
+		(shape input)
+		(at 162.56 43.18 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d343da80-2c29-4fe4-853d-e0c1b6217538")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 101.6 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e196d504-4916-4804-bd5b-60a18c89e0cc")
+	)
+	(hierarchical_label "ROW_5"
+		(shape input)
+		(at 140.97 135.89 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e22a44a0-6c29-4495-a4ee-b73050ca0b0b")
+	)
+	(hierarchical_label "ROW_5"
+		(shape input)
+		(at 111.76 135.89 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4acdd2b-4a4e-4a06-8fa6-1953199bad37")
+	)
+	(hierarchical_label "COL_1"
+		(shape input)
+		(at 104.14 133.35 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e824e1cd-198a-4a7e-bae5-2a736fe60a63")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 160.02 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e90391e9-0121-460d-b41f-f90d80c9f7c9")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 189.23 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee9cb667-15db-4002-b48e-b26a7425092a")
+	)
+	(hierarchical_label "ROW_2"
+		(shape input)
+		(at 140.97 69.85 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f1294ed1-490e-48c5-9a23-874e47ae274b")
+	)
+	(hierarchical_label "LATCH"
+		(shape output)
+		(at 101.6 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f3794523-b92b-48d2-9e40-156044db9271")
+	)
+	(hierarchical_label "COL_2"
+		(shape input)
+		(at 133.35 88.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f7e734b3-96ec-4a56-aa6e-a47c08904a7d")
+	)
+	(hierarchical_label "ROW_1"
+		(shape input)
+		(at 82.55 45.72 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe84435a-edb5-4fe9-a672-0bb2ecbd27cc")
+	)
+	(sheet
+		(at 85.09 38.1)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "01bd6906-d0e9-4f48-8e09-6319a848cf13")
+		(property "Sheetname" "Button ciruit"
+			(at 85.09 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 85.09 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 85.09 46.99 180)
+			(uuid "651d81d7-6438-4d09-ad0a-4ea4fe6d79cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 100.33 46.99 0)
+			(uuid "5d76b9b8-fb00-4dc5-b2f6-3e0e5cd108a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 100.33 44.45 0)
+			(uuid "09c053fe-3cec-4ddb-bf48-799326b7d3f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 62.23)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "060d89ff-bf1e-43e5-98c9-b1121b6f5ca4")
+		(property "Sheetname" "Button ciruit5"
+			(at 114.3 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 114.3 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 114.3 71.12 180)
+			(uuid "b1c92e4a-02c5-4c9f-9b44-444e41ed1ee5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 129.54 71.12 0)
+			(uuid "e451bf9f-ed63-42e8-b374-905f533b4b17")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 68.58 0)
+			(uuid "2f96d221-e9ca-4771-a2f3-13208fb986cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 128.27)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f28243d-1ac6-44db-9654-832075379c1c")
+		(property "Sheetname" "Button ciruit19"
+			(at 172.72 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 172.72 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 172.72 137.16 180)
+			(uuid "85be9020-dbfe-411c-b197-69c161966d79")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 187.96 137.16 0)
+			(uuid "bef26385-5ca3-452b-a361-8cadc06e513b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 187.96 134.62 0)
+			(uuid "447d2332-66ee-402e-b333-ad6cee889d94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 83.82)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "13ee28ea-6dd3-42f7-8bd0-41da8dd41c4e")
+		(property "Sheetname" "Button ciruit9"
+			(at 114.3 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 114.3 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 114.3 92.71 180)
+			(uuid "39201f04-f6d6-4dc1-884b-bcf2c696635a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 129.54 92.71 0)
+			(uuid "e901932a-d085-4bf6-ba4d-48426f53cff9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 90.17 0)
+			(uuid "f2d9192b-72a5-4330-a8c5-09b7b27364cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 62.23)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "14ca796b-e275-43c5-b730-36a659082b00")
+		(property "Sheetname" "Button ciruit6"
+			(at 143.51 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 143.51 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 143.51 71.12 180)
+			(uuid "b212a88c-4881-483e-bae5-8b3d268cbf05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 158.75 71.12 0)
+			(uuid "8264fdfe-42f8-476e-8d6f-5249fe4805db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 158.75 68.58 0)
+			(uuid "9684b2c0-4ddc-457a-b6ac-36f2fa551035")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 38.1)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1decf06e-2ecd-4854-afe9-e0bab1a314bf")
+		(property "Sheetname" "Button ciruit3"
+			(at 172.72 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 172.72 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 172.72 46.99 180)
+			(uuid "799e728e-856a-46e1-bab5-e5fe0b3e008c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 187.96 46.99 0)
+			(uuid "9452b19c-33eb-4598-a7bc-84c54ab80e8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 187.96 44.45 0)
+			(uuid "cd748a37-b579-4c84-b1d8-2c8fca934ed3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 62.23)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e8034da-122a-4f0d-929f-092c97d491e4")
+		(property "Sheetname" "Button ciruit4"
+			(at 85.09 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 85.09 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 85.09 71.12 180)
+			(uuid "d7dc7ed4-1116-4e7e-8d63-5e0ac15c17a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 100.33 71.12 0)
+			(uuid "ebd46f04-73d4-4eef-92bc-59691f7663fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 100.33 68.58 0)
+			(uuid "891ec403-c76f-4735-9953-97c7dde4f85c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 83.82)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "301817ab-439c-499d-95d8-227eddb569f8")
+		(property "Sheetname" "Button ciruit11"
+			(at 172.72 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 172.72 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 172.72 92.71 180)
+			(uuid "2f9620da-6b46-4c91-929b-8c04af9fde55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 187.96 92.71 0)
+			(uuid "1687f356-37d6-40a6-b7f9-94309d8643fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 187.96 90.17 0)
+			(uuid "3c7ff06a-8631-4126-a27a-dcf3b511d236")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 128.27)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3dd35b2b-ab9f-43f4-bf56-ef9e7e3a2ab2")
+		(property "Sheetname" "Button ciruit16"
+			(at 85.09 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 85.09 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 85.09 137.16 180)
+			(uuid "4d25992e-8c56-4220-9735-b281cc7d7656")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 100.33 137.16 0)
+			(uuid "0fa3b574-f0b6-4ca2-b1e8-faa1c083f261")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 100.33 134.62 0)
+			(uuid "c61c15d9-ac1c-41e0-b7ca-d8041313a6b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 105.41)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "50e6748e-beb6-42c3-ac59-88bc327287e6")
+		(property "Sheetname" "Button ciruit13"
+			(at 114.3 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 114.3 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 114.3 114.3 180)
+			(uuid "d8ab5dd2-0ff5-48be-8143-39f90500eca0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 129.54 114.3 0)
+			(uuid "3c9fabed-8656-4e1b-9d04-de80d57b8c03")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 111.76 0)
+			(uuid "ce8af12b-4436-471c-9487-6421f84bf80d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 128.27)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "728498b1-9057-4909-8c1d-e3200d588e24")
+		(property "Sheetname" "Button ciruit18"
+			(at 143.51 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 143.51 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 143.51 137.16 180)
+			(uuid "e306dc62-1172-4940-b0e7-3c42c44ddd0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 158.75 137.16 0)
+			(uuid "3b253a0c-57dc-4e8a-9d1d-279bf76f1c96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 158.75 134.62 0)
+			(uuid "bca0984a-424b-4977-be83-4723cbba300b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 128.27)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "780f3355-531b-4d5b-8488-879a5ad4db8c")
+		(property "Sheetname" "Button ciruit17"
+			(at 114.3 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 114.3 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 114.3 137.16 180)
+			(uuid "81818774-9e32-47ec-83da-7f22c07faee2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 129.54 137.16 0)
+			(uuid "6187129c-a8a8-47b8-af77-9d2d3fba0376")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 134.62 0)
+			(uuid "afc8144a-6ac9-4fa3-8b56-e6b4128f622e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 38.1)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7f6c0b1b-514c-4702-a0f4-4b756c6394d8")
+		(property "Sheetname" "Button ciruit2"
+			(at 143.51 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 143.51 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 143.51 46.99 180)
+			(uuid "ef0c29d4-a987-4a71-a0ba-df2e2a138e1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 158.75 46.99 0)
+			(uuid "96a64707-91f3-4606-8802-a85a54da58ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 158.75 44.45 0)
+			(uuid "6c5b1fc9-0c79-4dc7-b20b-1fa7667711e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 83.82)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "92e2696a-fa3e-4085-8d3e-383f7e3d85d1")
+		(property "Sheetname" "Button ciruit8"
+			(at 85.09 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 85.09 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 85.09 92.71 180)
+			(uuid "a091f98e-6d52-4bd8-af6b-ccce6b7f1b5b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 100.33 92.71 0)
+			(uuid "73a009dc-677f-4e4c-8d55-d34aed3520bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 100.33 90.17 0)
+			(uuid "2152bb25-25d7-4379-aacc-f1df35aa3cf3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 105.41)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94df7adb-f425-4fb4-bca9-dcd4310dafbb")
+		(property "Sheetname" "Button ciruit15"
+			(at 172.72 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 172.72 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 172.72 114.3 180)
+			(uuid "f90c1fc2-059e-40cf-9da3-948227f5dbd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 187.96 114.3 0)
+			(uuid "222f03c2-2a76-4da3-a067-00638b9cd1ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 187.96 111.76 0)
+			(uuid "3108a313-c43e-47d5-90dd-1dd261fef578")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 38.1)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bb353454-6353-4bc1-b368-3993066d55d4")
+		(property "Sheetname" "Button ciruit1"
+			(at 114.3 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 114.3 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 114.3 46.99 180)
+			(uuid "01934c8e-0cbd-4a20-9e0b-24b2a2363b23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 129.54 46.99 0)
+			(uuid "8d9632b8-8b78-43d0-b601-43211cd3cba5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 44.45 0)
+			(uuid "84d28dfd-7070-4190-8e87-9cd0e331107d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 83.82)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bd818b78-2ca9-4d96-9ab5-9401c158204f")
+		(property "Sheetname" "Button ciruit10"
+			(at 143.51 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 143.51 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 143.51 92.71 180)
+			(uuid "c5700c3c-d700-4f5f-b311-90ac5e171cfd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 158.75 92.71 0)
+			(uuid "3f3458c2-68dd-4773-9908-638ce0a9c27b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 158.75 90.17 0)
+			(uuid "58da0f6f-4a6b-4ee5-8ea2-f667029e2a4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 105.41)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ca23ba84-fd8d-4ae6-8205-72a0865f6ac3")
+		(property "Sheetname" "Button ciruit12"
+			(at 85.09 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 85.09 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 85.09 114.3 180)
+			(uuid "3e69ca3b-67a6-4103-8008-d3780da19d93")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 100.33 114.3 0)
+			(uuid "0985fa57-f7eb-4055-9d03-0cb882845e8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 100.33 111.76 0)
+			(uuid "ca5cca52-bf6b-4cf7-957e-afd5fc74965d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 105.41)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce5e0a6b-d864-4e7f-89e7-0ceaa4a2865a")
+		(property "Sheetname" "Button ciruit14"
+			(at 143.51 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 143.51 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 143.51 114.3 180)
+			(uuid "17e6d3b9-8063-4e63-9245-a26081c302e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 158.75 114.3 0)
+			(uuid "e5f925f7-c5ce-4b5a-b13a-ca636187888d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 158.75 111.76 0)
+			(uuid "3d3ad347-652f-4549-be90-618a2c02e07a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 62.23)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f66330f4-34f7-415f-8250-0193da5908a1")
+		(property "Sheetname" "Button ciruit7"
+			(at 172.72 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "btn_crct.kicad_sch"
+			(at 172.72 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 172.72 71.12 180)
+			(uuid "0bb964e4-c20d-4982-9294-881a41223fa3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LATCH" output
+			(at 187.96 71.12 0)
+			(uuid "193818ed-10b5-4969-9f92-5e876bcfef0f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT" output
+			(at 187.96 68.58 0)
+			(uuid "da04aae4-df0e-4f4b-ad64-c17d8bd28d3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dormo"
+				(path "/ff209d91-b81c-4298-adb3-92cd8e0f5a40/c3ef7e2a-0c4c-4154-898b-a4f5d1bd0d76"
+					(page "10")
+				)
+			)
+		)
+	)
+)
