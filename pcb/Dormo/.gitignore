@@ -4,3 +4,5 @@ Dormo-backups/
 *.lck
 *.bak
 fp-info-cache
+3d-models/*
+*.log
