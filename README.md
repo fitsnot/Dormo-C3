@@ -5,15 +5,18 @@ This project started as a fork of [Picoclick-C3](https://github.com/makermoekoe/
 
 ## Current State
 
-The short term goal is to have a ready-to order PCB at JLCPCB with the respective parts for assembly.
-After inital PCB design a housing for the remote will follow. If you have suggestions simply open a feature request issue.
+The short term goal is to have a ready-to order PCB at JLCPCB with the respective parts for assembly. If you have suggestions simply open a feature request issue.
 
 - [x] Update schematic in KiCad
-- [ ] Draw PCB
+- [x] Draw PCB
 - [ ] Validate prototype PCB
 - [ ] Design 3D-printable housing
   
 
+Images of the first housing design:
+
+<img src="docs/remote_1.png" height="300px"></a>
+<img src="docs/remote_2.png" height="300px"></a>
 
 
 ## GPIOs

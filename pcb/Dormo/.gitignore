@@ -6,3 +6,4 @@ Dormo-backups/
 fp-info-cache
 3d-models/*
 *.log
+*.step
